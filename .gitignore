@@ -1,0 +1,17 @@
+plot_res/cartpole-v0.png
+plot_res/ddqn_cartpole_reward.txt
+plot_res/ddqn_cartpole.txt
+plot_res/ddqn_lunarlander_reward.txt
+plot_res/ddqn_lunarlander.txt
+plot_res/dqn_cartpole_reward.txt
+plot_res/dqn_cartpole-v0.png
+plot_res/dqn_cartpole.txt
+plot_res/dqn_lunarlander_reward.txt
+plot_res/dqn_lunarlander.txt
+plot_res/lunarlander-v2.png
+plot_res/plot_cartpole.py
+plot_res/plot_lunarlander.py
+plot_res/ppo_cartpole_reward.txt
+plot_res/ppo_cartpole.txt
+plot_res/ppo_lunarlander_reward.txt
+plot_res/ppo_lunarlander.txt
